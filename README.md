@@ -1,6 +1,6 @@
 # BPBStyle_Base
 
-Demo:  https://github.com/hajikuma11/BPBStyle_Base/blob/main/main.html
+Demo: https://htmlpreview.github.io/?https://github.com/hajikuma11/BPBStyle_Base/blob/main/main.html
 
 ---
 
